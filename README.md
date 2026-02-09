@@ -1,12 +1,6 @@
 Dairy-Assist-System-with-Auto-Feed-Stock-Prediction
 A comprehensive, full-stack dairy management system designed to streamline dairy business operations. This application provides role-based access for Administrators and Customers, handling everything from product management to order processing, delivery tracking, and automated feed reordering.
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.2-brightgreen?style=flat&logo=spring)
-![React](https://img.shields.io/badge/React-19.2-blue?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ---
 
 ## 📋 Table of Contents
